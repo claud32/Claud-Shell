@@ -1,4 +1,5 @@
 # Claud-Shell
+An UNIX shell with custom features
 ## High-level Design Summary
 I implement each of the shell functionaily separately. I parse the command 
 line with the strtok function and parse command line differently base on
